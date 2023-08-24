@@ -1,0 +1,6 @@
+venv
+__pycache__
+.vscode
+error_log.txt
+urls.txt
+data.db
